@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leoarjo
-- 🌱 I’m currently learning HTML, CSS and Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
 - 📫 How to reach me:
       Instagram: @leo.arjo
 
