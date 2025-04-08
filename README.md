@@ -1,4 +1,4 @@
-## Oi! Eu sou o Leonardo Araujo
+
 
 <div align="center">
   <a href="https://github.com/leoarjo">
